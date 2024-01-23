@@ -12,6 +12,10 @@ Alura desafio Listas:
 9. Crea una función que devuelva la posición en la lista donde se encuentra un elemento pasado como parámetro, o -1 si no existe en la lista.
 10. Crea una función que reciba dos listas de números del mismo tamaño y devuelva una nueva lista con la suma de los elementos uno a uno.
 11. Crea una función que reciba una lista de números y devuelva una nueva lista con el cuadrado de cada número.
+
+JOHNN GIL GUTIERREZ
+jg_gutierrez@yahoo.es
+01-2024
 */
 
 let listaGenerica = [];
